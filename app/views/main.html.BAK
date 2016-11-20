@@ -1,0 +1,33 @@
+<div class="jumbotron">
+  </p>
+    <img src="images/logo.png">
+  </p>
+  <h1>teniski klub</h1>
+  <p class="lead">
+    <img width="100%" src="images/loptica.jpg" alt="Teniski kluba balans, teniska loptica"><br>
+    ugao Novosadskog auto puta i ul. Mala pruga
+</div>
+
+<div class="row marketing">
+  <h4>HTML5 Boilerplate</h4>
+  <p>
+    HTML5 Boilerplate is a professional front-end template for building fast, robust, and adaptable web apps or sites.
+  </p>
+
+  <h4>Angular</h4>
+  <p>
+    AngularJS is a toolset for building the framework most suited to your application development.
+  </p>
+
+  <h4>Karma</h4>
+  <p>Spectacular Test Runner for JavaScript.</p>
+
+  <h4>Dinamicki</h4>
+  <p>
+    <ul>
+      <li ng-repeat="i in proba">
+        {{i}}
+      </li>      
+    </ul>
+  </p>
+</div>
